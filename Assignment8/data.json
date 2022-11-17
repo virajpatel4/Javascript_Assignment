@@ -1,0 +1,51 @@
+  [{
+      "movieId":"1",
+      "firstName":"viraj",
+      "lastName":"patel",
+      "jounra":"comedy",
+      "director":"john"
+     },
+     {
+          "movieId":"2",
+          "firstName":"fonshi",
+          "lastName":"lana",
+          "jounra":"scary",
+          "director":"del rio"
+    },
+    {
+     "movieId":"3",
+     "firstName":"jeff",
+     "lastName":"captian",
+     "jounra":"thriller",
+     "director":"Raam"
+     },
+{
+     "movieId":"4",
+     "firstName":"prem",
+     "lastName":"jhon",
+     "jounra":"romantic",
+     "director":"louis"
+     },
+{
+     "movieId":"5",
+     "firstName":"jimmy",
+     "lastName":"vega",
+     "jounra":"comedy",
+     "director":"ramsey"
+     },
+{
+     "movieId":"6",
+     "firstName":"irsh",
+     "lastName":"ziglar",
+     "jounra":"action",
+     "director":"rio"
+     },
+{
+     "movieId":"7",
+     "firstName":"andrew",
+     "lastName":"smith",
+     "jounra":"documentary",
+     "director":"carlos"
+     }
+
+]
